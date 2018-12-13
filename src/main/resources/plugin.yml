@@ -1,0 +1,6 @@
+name: ServerSignShops
+version: 1.0.0
+main: com.mcskynet.ServerSignShops.ServerSignShops
+api-version: 1.13
+depend:
+  - Vault
